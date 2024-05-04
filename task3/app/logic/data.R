@@ -2,7 +2,7 @@ box::use(
   dplyr,
 )
 box::use(
-  app/logic/db[pool],
+  app/logic/db,
 )
 
 #' @export
